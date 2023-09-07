@@ -1,4 +1,5 @@
 # insomnia.land-mixer 
+## Supported by insomnia.land - best content generator ever
 
 Insomnia. Mixer of input images. 
 
