@@ -1,0 +1,6 @@
+torch
+torchvision
+Pillow
+requests
+diffusers==0.12.1
+transformers
