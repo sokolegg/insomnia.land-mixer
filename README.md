@@ -22,7 +22,7 @@ To run:
 ### = Output images
 
 <img src="results/result_1.jpg" width="360"/>
-<img src="results/result_2.jpg" width="360"/>
+<img src="results/result_4.jpg" width="360"/>
 <img src="results/result_3.jpg" width="360"/>
 
 
